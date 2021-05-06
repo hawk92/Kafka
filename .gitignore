@@ -2,3 +2,5 @@
 /common/target/
 /consumer/target/
 /producer/target/
+*.iml
+.idea/
